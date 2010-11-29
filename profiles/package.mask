@@ -1,0 +1,3 @@
+# Dave Ingram <gentoo@dmi.me.uk> (29 Nov 2010)
+# Current development version should always be masked
+=dev-php5/pecl-TextTemplate-9999
